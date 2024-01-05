@@ -1,1 +1,1 @@
-This exercise was part of the course 100 days to python from Prof. Angela Yu
+This repository is where I put my work from the python course, from Prof. Angela Yu, 100 days to python
